@@ -1,0 +1,25 @@
+carro = x1 = v1.t
+caminhão = 100km - v2.t
+
+v1 = velocidade do carro 110km/h
+v2 = velocidade do caminhão 80km/h 
+
+Como o caminhão possui um atraso de 0,17 horas que seria a conversão de 10 minutos de atraso por conta dos pedágios, o tempo que o caminhão demoraria para percorrer da França até o Ribeirão Preto seria de 1,25h sem obstáculos, com, seria 1,25h + 0,17h = 1,42h logo a velocidade do caminhão é de 
+
+     100km
+v2 = -----	= 70,6km/h
+     1,42h 
+
+v2 = velocidade do caminhão 70,6km/h
+
+Estabelecido isso agora é só montar a fórmula para saber o tempo em que eles se cruzam.
+
+x = v1 . 100km   110km/h . 100km
+    ---------- = ---------------
+    v1 + v2	     110km/h + 70,6km/h
+
+x = 60,9km
+
+Sendo assim a distancia que ambos estão de Ribeirão Preto é a mesma.
+		
+
